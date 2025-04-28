@@ -1,0 +1,7 @@
+[2025-04-27 22:53:56] Printed: Automatic detection of pneumonia in chest X-ray images using textural features.pdf (Category: Medical)
+[2025-04-27 22:53:59] Printed: PO3659811503-864.pdf (Category: Medical)
+[2025-04-27 22:54:01] Printed: sa-fy14-q4-year-finstatement.pdf (Category: Finance)
+[2025-04-27 22:54:03] Printed: Confidentiality-Agreement.pdf (Category: Government)
+[2025-04-27 22:54:05] Printed: Employment-Offer-Letter.pdf (Category: Government)
+[2025-04-27 22:54:07] Printed: CC-Module 5.pdf (Category: Educational)
+[2025-04-27 22:54:09] Printed: Selections.pdf (Category: Creative)
